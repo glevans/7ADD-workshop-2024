@@ -1,1 +1,0 @@
-Set of notebooks covering some basics related to using PDBe's REST APIs.
